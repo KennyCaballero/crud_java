@@ -1,0 +1,6 @@
+com\mycompany\administracion\Administracion.class
+com\mycompany\administracion\Profesor.class
+com\mycompany\administracion\Alumno.class
+com\mycompany\administracion\Nota.class
+com\mycompany\administracion\DatabaseManager.class
+com\mycompany\administracion\Curso.class
